@@ -4,7 +4,8 @@ Objectives of the this study:
 -MS treatment often harmful for NMOSD 
 -From looking for pattern of abnormalities in MS and NMOSD patients. 
 
-Our goal: 
+Our goal:
+
 -Differentiation between the 2 diseases
 -Understanding of the underlying pathogenetic mechanism
 
